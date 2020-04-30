@@ -78,4 +78,3 @@ for cohort in cohorts:
     print(f'')
 
 print(f'-------------------')
-print(dingo.exercises)
